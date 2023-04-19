@@ -12,6 +12,7 @@ dependencies:
   - htop
   - cuda
   - transformers
+  - ipython
   - pip
   - pip:
     - accelerate
